@@ -1,6 +1,6 @@
 # Implementation-of-filter
-### Name - Abishai K C
-### Register Number - 212223240002
+### Name - Ashwina K N
+### Register Number - 212223230025
 ## Aim:
 To implement filters for smoothing and sharpening the images in the spatial domain.
 
